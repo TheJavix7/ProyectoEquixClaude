@@ -1,0 +1,29 @@
+# GUI
+PyQt6==6.6.1
+
+# Excel Processing
+pandas==2.1.4
+openpyxl==3.1.2
+
+# PDF Processing
+PyMuPDF==1.23.8
+pypdf2==3.0.1
+
+# Vector Graphics
+svgwrite==1.4.3
+svglib==1.5.1
+svgpathtools==1.6.1
+
+# Geometry & Nesting
+shapely==2.0.2
+numpy==1.26.2
+
+# PDF Generation
+reportlab==4.0.7
+
+# Utilities
+python-dateutil==2.8.2
+
+# Testing
+pytest==7.4.3
+pytest-qt==4.2.0

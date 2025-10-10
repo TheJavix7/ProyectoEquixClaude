@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Datos
+data/output/*
+!data/output/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+*.xlsx
+*.xls
+
+# PDFs temporales
+*.pdf
+!data/templates/*.pdf
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.ai
+*.svg
